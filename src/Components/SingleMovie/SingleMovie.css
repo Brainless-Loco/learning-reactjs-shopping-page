@@ -1,0 +1,10 @@
+.single-movie{
+    border: 1px solid rebeccapurple;
+    padding: 5px;
+    margin: 15px;
+    width: 200px;
+    border-radius: 8px;
+}
+.title{
+    height: 240px;
+}
